@@ -1,0 +1,9 @@
+../Core/Src/main.c:80:6:PWM	1
+../Core/Src/main.c:111:6:PWM_PA1_TIM2	1
+../Core/Src/main.c:143:6:PWM_PA5_TIM8	1
+../Core/Src/main.c:175:6:map	1
+../Core/Src/main.c:186:5:main	42
+../Core/Src/main.c:597:6:SystemClock_Config	3
+../Core/Src/main.c:639:13:MX_UART4_Init	2
+../Core/Src/main.c:672:13:MX_GPIO_Init	1
+../Core/Src/main.c:703:6:Error_Handler	1
